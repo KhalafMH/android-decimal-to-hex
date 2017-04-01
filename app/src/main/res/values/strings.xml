@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DecimalToHex</string>
+    <string name="decimal_number">Decimal Number</string>
+    <string name="hexadecimal_number">Hexadecimal Number</string>
+    <string name="decimal_to_hexadecimal">Decimal To Hexadecimal</string>
+    <string name="hexadecimal_to_decimal">Hexadecimal To Decimal</string>
+</resources>
